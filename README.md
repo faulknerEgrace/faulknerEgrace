@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faulknerEgrace
-- 👀 I’m interested in data analysis for One Health and Public Health research and the prevention and control of disease transmission.  
+- 👀 I’m interested in data analysis for One Health and Public Health research and for the prevention and control of disease transmission.  
 - 🌱 I’m currently learning more R programming and GIS techniques for data analysis and visualizations. 
 - 💞️ I’m looking to collaborate on data analysis focused on disease transmission. 
 - 📫 How to reach me: email! faulknerEgrace@yahoo.com  
