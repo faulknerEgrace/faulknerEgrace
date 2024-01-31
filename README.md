@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faulknerEgrace
 - 👀 I’m interested in data analysis for One Health/Public Health research and for the prevention and control of disease transmission.  
 - 🌱 I’m currently learning more R programming and GIS techniques for data analysis and visualizations. 
-- 💞️ I’m looking to collaborate on data analysis focused on disease transmission. 
+- 💞️ I’m looking to collaborate on data analysis focused on disease transmission and surveillance. 
 - 📫 How to reach me: email! gfaulkn2@ncsu.edu
 - 😄 Pronouns:she/her
 - ⚡ Fun fact: I studied abroad in Kenya and Tanzania
